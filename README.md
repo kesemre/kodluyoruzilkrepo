@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 
 Kodluyoruz Egitimi kapsaminda actigim ilk repo
+<<<<<<< HEAD
 ## ikinci baslık
 
 ikinci başlık için ## işareti kullanabilirz
@@ -16,3 +17,28 @@ print("merhaba dünya")
 
 ## link
 [Linke gitmek için Tıklayınız](https://www.google.com)
+=======
+
+## ikinci baslık
+
+ikinci başlık için ## işareti kullanabilirz
+
+## kod blokları için
+
+- ' veya '''kulanabiliriz
+
+## kod bloğu
+
+```python
+print("Merhaba patika")
+
+```
+
+## Resim
+
+![ilk resim](https://upload.wikimedia.org/wikipedia/tr/b/ba/Microsoft_Office_Resim_Y%C3%B6neticisi_Office_Picture_Manager.jpg)
+
+## link
+
+[Linke gitmek için Tıklayınız](https://www.google.com)
+>>>>>>> 716ed238d8b41edaf1c7f194aaba8f11361b61b4
